@@ -26,7 +26,7 @@ Producing a concise and fluent summary while preserving key information content 
 
 ### model
 1. sentence selection algorithm:用於新聞文章(首句加重)
-2. MMR:用單一文件摘要
+2. MMR:用於單一文件摘要
 
 ### tools
 1. TextRank (Extractive)-graph based
